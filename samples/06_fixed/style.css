@@ -1,0 +1,35 @@
+body {
+  background-color: #eee;
+}
+
+.bodywrapper {
+  width: 400px;
+  margin: 40px auto 20px;
+}
+
+.menu {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+
+  background-color: #111;
+  color: #fff;
+
+  display: flex;
+  justify-content: center;
+}
+
+.menu a {
+  display: block;
+  color: #fff;
+  margin: 0 1em;
+}
+
+.article {
+  background-color: #fff;
+  margin-bottom: 20px;
+}
+
+.article-body {
+}

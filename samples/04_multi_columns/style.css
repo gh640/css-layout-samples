@@ -1,0 +1,26 @@
+body {
+  background-color: #eee;
+}
+
+.bodywrapper {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-color: #ddd;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.main {
+  background-color: rgb(153, 204, 153);
+  width: 68%;
+  height: 100%;
+}
+
+.side {
+  background-color: rgb(204, 153, 153);
+  width: 28%;
+}
